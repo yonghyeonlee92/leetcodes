@@ -6,3 +6,4 @@ venv/
 pyproject.toml
 **/build/
 settings.json
+builddir
